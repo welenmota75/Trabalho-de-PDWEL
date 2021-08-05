@@ -1,0 +1,53 @@
+.login{
+	border-radius: 10px; 
+	background-color:#D6D6D6;
+	width:25%;
+	clear:both;
+	float:inherit;
+	height:100%;
+	border-radius: 20px;
+	margin:auto;
+
+}
+
+#cadastrarAluno{
+	text-align:center;
+	color: black;
+}
+
+.menu{
+	color:white;
+}
+
+.cadastro{
+	width:90%;
+}
+
+#cadastrarBotao{
+	background:#EBE8E8;
+	border-color:black;
+	color:black;
+	position:fixed;
+}
+
+#selecionarProva{
+	width:10px;
+}
+
+.prova{
+	width:30%;
+}
+
+.select{
+	width:15%;
+}
+
+#pergunta{
+	width:60%;
+}
+
+.fundo{
+	height:10px;
+	max-height:10px;
+}
+
